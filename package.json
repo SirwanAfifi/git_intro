@@ -1,0 +1,12 @@
+{
+  "name": "git_arash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SirwanAfifi/git_intro.git",
+  "author": "Sirwan <sir1afifi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^9.8.6",
+    "tailwindcss": "^1.7.3"
+  }
+}
